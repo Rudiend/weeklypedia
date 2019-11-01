@@ -1,4 +1,4 @@
-Werkzeug==0.9.4
+Werkzeug==0.15.3
 argparse==1.2.1
 -e git+https://github.com/mahmoud/clastic.git#egg=clastic
 docopt==0.4.0
